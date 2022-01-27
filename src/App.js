@@ -4,7 +4,8 @@ function App() {
   return (
     <div className="App">
       <h1>The Big Money Making Machine</h1>
-      <button>Deposit $1,000,000</button>
+      <p>You know what to do (press the button).</p>
+      <button>Deposit $1.00</button>
     </div>
   );
 }
